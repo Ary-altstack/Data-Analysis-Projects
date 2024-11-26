@@ -1,0 +1,23 @@
+Zomato Data Analysis using Python 
+
+1) What type of restaurant do the majority of customers orders from ?
+-- Solution after analysing : majority people falls in dining category 
+
+2) How many votes has each type of restaurant received from customers?
+-- Solution after analysing : dining restaurant has received maximum votes
+
+3) What are the ratings that majority of restaurants hav e received?
+-- Solution after analysing : The majority restaurants received ratings from 3.5 to 4 
+
+
+4) Zomato has observed that most of the couples order most of their food online.
+What is the avg spending on each other?
+-- Solution after analysing: majority spending is 300 RS
+
+5) Which mode (online or offine ) haas received the maximum ratings?
+-- Solution after analysing: Offline Order received lower raings compared to online orders
+
+6) Which type of restaurant received more offline orders,so that Zomato can provide those 
+customers with some good offers?
+-- Solution after analysing:dining restaurant primarily accept offline orders, whereas cafes primarily receive 
+online orders. This suggests that clients prefers order in person
